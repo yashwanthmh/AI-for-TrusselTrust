@@ -1,0 +1,1825 @@
+ds,y,local_authority
+2018-03-31,1,Amber Valley
+2019-03-31,1,Amber Valley
+2020-03-31,1,Amber Valley
+2021-03-31,1,Amber Valley
+2022-03-31,1,Amber Valley
+2023-03-31,1,Amber Valley
+2018-03-31,1,Bassetlaw
+2019-03-31,1,Bassetlaw
+2020-03-31,1,Bassetlaw
+2021-03-31,1,Bassetlaw
+2022-03-31,1,Bassetlaw
+2023-03-31,1,Bassetlaw
+2018-03-31,1,Blaby
+2019-03-31,1,Blaby
+2020-03-31,1,Blaby
+2021-03-31,1,Blaby
+2022-03-31,1,Blaby
+2023-03-31,1,Blaby
+2018-03-31,2,Bolsover
+2019-03-31,1,Bolsover
+2020-03-31,1,Bolsover
+2021-03-31,1,Bolsover
+2022-03-31,2,Bolsover
+2023-03-31,1,Bolsover
+2018-03-31,2,Boston
+2019-03-31,2,Boston
+2020-03-31,2,Boston
+2021-03-31,1,Boston
+2022-03-31,1,Boston
+2023-03-31,1,Boston
+2018-03-31,4,Broxtowe
+2019-03-31,4,Broxtowe
+2020-03-31,4,Broxtowe
+2021-03-31,4,Broxtowe
+2022-03-31,4,Broxtowe
+2023-03-31,4,Broxtowe
+2018-03-31,1,Charnwood
+2019-03-31,2,Charnwood
+2020-03-31,3,Charnwood
+2021-03-31,3,Charnwood
+2022-03-31,3,Charnwood
+2023-03-31,3,Charnwood
+2018-03-31,4,Chesterfield
+2019-03-31,4,Chesterfield
+2020-03-31,5,Chesterfield
+2021-03-31,6,Chesterfield
+2022-03-31,6,Chesterfield
+2023-03-31,7,Chesterfield
+2018-03-31,0,Derbyshire Dales
+2019-03-31,0,Derbyshire Dales
+2020-03-31,0,Derbyshire Dales
+2021-03-31,0,Derbyshire Dales
+2022-03-31,0,Derbyshire Dales
+2023-03-31,1,Derbyshire Dales
+2018-03-31,2,Erewash
+2019-03-31,2,Erewash
+2020-03-31,2,Erewash
+2021-03-31,2,Erewash
+2022-03-31,2,Erewash
+2023-03-31,2,Erewash
+2018-03-31,5,Gedling
+2019-03-31,4,Gedling
+2020-03-31,4,Gedling
+2021-03-31,4,Gedling
+2022-03-31,4,Gedling
+2023-03-31,3,Gedling
+2018-03-31,1,Harborough
+2019-03-31,1,Harborough
+2020-03-31,1,Harborough
+2021-03-31,1,Harborough
+2022-03-31,1,Harborough
+2023-03-31,2,Harborough
+2018-03-31,8,Hinckley and Bosworth
+2019-03-31,9,Hinckley and Bosworth
+2020-03-31,8,Hinckley and Bosworth
+2021-03-31,8,Hinckley and Bosworth
+2022-03-31,10,Hinckley and Bosworth
+2023-03-31,11,Hinckley and Bosworth
+2018-03-31,1,Leicester
+2019-03-31,4,Leicester
+2020-03-31,11,Leicester
+2021-03-31,9,Leicester
+2022-03-31,9,Leicester
+2023-03-31,11,Leicester
+2018-03-31,6,Lincoln
+2019-03-31,6,Lincoln
+2020-03-31,7,Lincoln
+2021-03-31,6,Lincoln
+2022-03-31,7,Lincoln
+2023-03-31,5,Lincoln
+2018-03-31,4,Mansfield
+2019-03-31,2,Mansfield
+2020-03-31,3,Mansfield
+2021-03-31,2,Mansfield
+2022-03-31,2,Mansfield
+2023-03-31,2,Mansfield
+2018-03-31,2,Newark and Sherwood
+2019-03-31,2,Newark and Sherwood
+2020-03-31,2,Newark and Sherwood
+2021-03-31,1,Newark and Sherwood
+2022-03-31,1,Newark and Sherwood
+2023-03-31,1,Newark and Sherwood
+2018-03-31,2,North East Derbyshire
+2019-03-31,2,North East Derbyshire
+2020-03-31,2,North East Derbyshire
+2021-03-31,2,North East Derbyshire
+2022-03-31,2,North East Derbyshire
+2023-03-31,2,North East Derbyshire
+2018-03-31,0,North Kesteven
+2019-03-31,0,North Kesteven
+2020-03-31,0,North Kesteven
+2021-03-31,0,North Kesteven
+2022-03-31,1,North Kesteven
+2023-03-31,2,North Kesteven
+2018-03-31,5,North Northamptonshire
+2019-03-31,5,North Northamptonshire
+2020-03-31,4,North Northamptonshire
+2021-03-31,4,North Northamptonshire
+2022-03-31,4,North Northamptonshire
+2023-03-31,3,North Northamptonshire
+2018-03-31,4,North West Leicestershire
+2019-03-31,5,North West Leicestershire
+2020-03-31,5,North West Leicestershire
+2021-03-31,5,North West Leicestershire
+2022-03-31,5,North West Leicestershire
+2023-03-31,4,North West Leicestershire
+2018-03-31,8,Nottingham
+2019-03-31,8,Nottingham
+2020-03-31,8,Nottingham
+2021-03-31,8,Nottingham
+2022-03-31,8,Nottingham
+2023-03-31,11,Nottingham
+2018-03-31,1,Oadby and Wigston
+2019-03-31,1,Oadby and Wigston
+2020-03-31,1,Oadby and Wigston
+2021-03-31,1,Oadby and Wigston
+2022-03-31,1,Oadby and Wigston
+2023-03-31,1,Oadby and Wigston
+2018-03-31,2,Rutland
+2019-03-31,2,Rutland
+2020-03-31,2,Rutland
+2021-03-31,1,Rutland
+2022-03-31,1,Rutland
+2023-03-31,1,Rutland
+2018-03-31,1,South Derbyshire
+2019-03-31,1,South Derbyshire
+2020-03-31,1,South Derbyshire
+2021-03-31,1,South Derbyshire
+2022-03-31,1,South Derbyshire
+2023-03-31,1,South Derbyshire
+2018-03-31,6,South Kesteven
+2019-03-31,5,South Kesteven
+2020-03-31,4,South Kesteven
+2021-03-31,4,South Kesteven
+2022-03-31,5,South Kesteven
+2023-03-31,5,South Kesteven
+2018-03-31,4,West Northamptonshire
+2019-03-31,2,West Northamptonshire
+2020-03-31,2,West Northamptonshire
+2021-03-31,2,West Northamptonshire
+2022-03-31,2,West Northamptonshire
+2023-03-31,2,West Northamptonshire
+2018-03-31,1,Basildon
+2019-03-31,1,Basildon
+2020-03-31,1,Basildon
+2021-03-31,1,Basildon
+2022-03-31,1,Basildon
+2023-03-31,1,Basildon
+2018-03-31,8,Bedford
+2019-03-31,8,Bedford
+2020-03-31,8,Bedford
+2021-03-31,8,Bedford
+2022-03-31,8,Bedford
+2023-03-31,8,Bedford
+2018-03-31,5,Braintree
+2019-03-31,5,Braintree
+2020-03-31,7,Braintree
+2021-03-31,6,Braintree
+2022-03-31,6,Braintree
+2023-03-31,6,Braintree
+2018-03-31,6,Breckland
+2019-03-31,6,Breckland
+2020-03-31,6,Breckland
+2021-03-31,6,Breckland
+2022-03-31,5,Breckland
+2023-03-31,6,Breckland
+2018-03-31,2,Brentwood
+2019-03-31,2,Brentwood
+2020-03-31,2,Brentwood
+2021-03-31,2,Brentwood
+2022-03-31,2,Brentwood
+2023-03-31,2,Brentwood
+2018-03-31,3,Broadland
+2019-03-31,3,Broadland
+2020-03-31,3,Broadland
+2021-03-31,1,Broadland
+2022-03-31,2,Broadland
+2023-03-31,2,Broadland
+2018-03-31,5,Broxbourne
+2019-03-31,5,Broxbourne
+2020-03-31,5,Broxbourne
+2021-03-31,4,Broxbourne
+2022-03-31,4,Broxbourne
+2023-03-31,3,Broxbourne
+2018-03-31,8,Cambridge
+2019-03-31,8,Cambridge
+2020-03-31,7,Cambridge
+2021-03-31,6,Cambridge
+2022-03-31,6,Cambridge
+2023-03-31,7,Cambridge
+2018-03-31,4,Central Bedfordshire
+2019-03-31,4,Central Bedfordshire
+2020-03-31,4,Central Bedfordshire
+2021-03-31,4,Central Bedfordshire
+2022-03-31,3,Central Bedfordshire
+2023-03-31,4,Central Bedfordshire
+2018-03-31,9,Chelmsford
+2019-03-31,7,Chelmsford
+2020-03-31,6,Chelmsford
+2021-03-31,7,Chelmsford
+2022-03-31,6,Chelmsford
+2023-03-31,9,Chelmsford
+2018-03-31,4,Colchester
+2019-03-31,2,Colchester
+2020-03-31,3,Colchester
+2021-03-31,10,Colchester
+2022-03-31,10,Colchester
+2023-03-31,11,Colchester
+2018-03-31,8,Dacorum
+2019-03-31,7,Dacorum
+2020-03-31,7,Dacorum
+2021-03-31,5,Dacorum
+2022-03-31,7,Dacorum
+2023-03-31,8,Dacorum
+2018-03-31,5,East Cambridgeshire
+2019-03-31,4,East Cambridgeshire
+2020-03-31,4,East Cambridgeshire
+2021-03-31,8,East Cambridgeshire
+2022-03-31,9,East Cambridgeshire
+2023-03-31,3,East Cambridgeshire
+2018-03-31,1,East Hertfordshire
+2019-03-31,1,East Hertfordshire
+2020-03-31,1,East Hertfordshire
+2021-03-31,2,East Hertfordshire
+2022-03-31,2,East Hertfordshire
+2023-03-31,3,East Hertfordshire
+2018-03-31,21,East Suffolk
+2019-03-31,13,East Suffolk
+2020-03-31,15,East Suffolk
+2021-03-31,12,East Suffolk
+2022-03-31,9,East Suffolk
+2023-03-31,8,East Suffolk
+2018-03-31,6,Epping Forest
+2019-03-31,6,Epping Forest
+2020-03-31,5,Epping Forest
+2021-03-31,5,Epping Forest
+2022-03-31,6,Epping Forest
+2023-03-31,5,Epping Forest
+2018-03-31,4,Fenland
+2019-03-31,3,Fenland
+2020-03-31,3,Fenland
+2021-03-31,4,Fenland
+2022-03-31,5,Fenland
+2023-03-31,3,Fenland
+2018-03-31,0,Great Yarmouth
+2019-03-31,0,Great Yarmouth
+2020-03-31,0,Great Yarmouth
+2021-03-31,0,Great Yarmouth
+2022-03-31,2,Great Yarmouth
+2023-03-31,2,Great Yarmouth
+2018-03-31,2,Harlow
+2019-03-31,2,Harlow
+2020-03-31,2,Harlow
+2021-03-31,2,Harlow
+2022-03-31,2,Harlow
+2023-03-31,2,Harlow
+2018-03-31,2,Hertsmere
+2019-03-31,2,Hertsmere
+2020-03-31,2,Hertsmere
+2021-03-31,2,Hertsmere
+2022-03-31,2,Hertsmere
+2023-03-31,2,Hertsmere
+2018-03-31,9,Huntingdonshire
+2019-03-31,7,Huntingdonshire
+2020-03-31,7,Huntingdonshire
+2021-03-31,7,Huntingdonshire
+2022-03-31,7,Huntingdonshire
+2023-03-31,7,Huntingdonshire
+2018-03-31,3,King's Lynn and West Norfolk
+2019-03-31,3,King's Lynn and West Norfolk
+2020-03-31,3,King's Lynn and West Norfolk
+2021-03-31,4,King's Lynn and West Norfolk
+2022-03-31,3,King's Lynn and West Norfolk
+2023-03-31,3,King's Lynn and West Norfolk
+2018-03-31,1,Mid Suffolk
+2019-03-31,1,Mid Suffolk
+2020-03-31,1,Mid Suffolk
+2021-03-31,1,Mid Suffolk
+2022-03-31,1,Mid Suffolk
+2023-03-31,1,Mid Suffolk
+2018-03-31,5,North Hertfordshire
+2019-03-31,5,North Hertfordshire
+2020-03-31,5,North Hertfordshire
+2021-03-31,4,North Hertfordshire
+2022-03-31,4,North Hertfordshire
+2023-03-31,4,North Hertfordshire
+2018-03-31,6,North Norfolk
+2019-03-31,6,North Norfolk
+2020-03-31,6,North Norfolk
+2021-03-31,6,North Norfolk
+2022-03-31,6,North Norfolk
+2023-03-31,6,North Norfolk
+2018-03-31,9,Norwich
+2019-03-31,11,Norwich
+2020-03-31,11,Norwich
+2021-03-31,6,Norwich
+2022-03-31,11,Norwich
+2023-03-31,13,Norwich
+2018-03-31,12,Peterborough
+2019-03-31,10,Peterborough
+2020-03-31,9,Peterborough
+2021-03-31,6,Peterborough
+2022-03-31,5,Peterborough
+2023-03-31,5,Peterborough
+2018-03-31,2,Rochford
+2019-03-31,1,Rochford
+2020-03-31,1,Rochford
+2021-03-31,1,Rochford
+2022-03-31,1,Rochford
+2023-03-31,2,Rochford
+2018-03-31,3,South Cambridgeshire
+2019-03-31,3,South Cambridgeshire
+2020-03-31,3,South Cambridgeshire
+2021-03-31,3,South Cambridgeshire
+2022-03-31,4,South Cambridgeshire
+2023-03-31,5,South Cambridgeshire
+2018-03-31,6,South Norfolk
+2019-03-31,7,South Norfolk
+2020-03-31,10,South Norfolk
+2021-03-31,9,South Norfolk
+2022-03-31,9,South Norfolk
+2023-03-31,8,South Norfolk
+2018-03-31,7,Southend-on-Sea
+2019-03-31,6,Southend-on-Sea
+2020-03-31,6,Southend-on-Sea
+2021-03-31,7,Southend-on-Sea
+2022-03-31,7,Southend-on-Sea
+2023-03-31,7,Southend-on-Sea
+2018-03-31,7,St Albans
+2019-03-31,6,St Albans
+2020-03-31,7,St Albans
+2021-03-31,7,St Albans
+2022-03-31,9,St Albans
+2023-03-31,10,St Albans
+2018-03-31,2,Tendring
+2019-03-31,2,Tendring
+2020-03-31,2,Tendring
+2021-03-31,2,Tendring
+2022-03-31,2,Tendring
+2023-03-31,2,Tendring
+2018-03-31,5,Three Rivers
+2019-03-31,5,Three Rivers
+2020-03-31,5,Three Rivers
+2021-03-31,4,Three Rivers
+2022-03-31,4,Three Rivers
+2023-03-31,4,Three Rivers
+2018-03-31,12,Thurrock
+2019-03-31,11,Thurrock
+2020-03-31,12,Thurrock
+2021-03-31,12,Thurrock
+2022-03-31,11,Thurrock
+2023-03-31,11,Thurrock
+2018-03-31,5,Uttlesford
+2019-03-31,4,Uttlesford
+2020-03-31,4,Uttlesford
+2021-03-31,3,Uttlesford
+2022-03-31,4,Uttlesford
+2023-03-31,4,Uttlesford
+2018-03-31,5,Watford
+2019-03-31,5,Watford
+2020-03-31,5,Watford
+2021-03-31,5,Watford
+2022-03-31,4,Watford
+2023-03-31,4,Watford
+2018-03-31,1,Welwyn Hatfield
+2019-03-31,1,Welwyn Hatfield
+2020-03-31,1,Welwyn Hatfield
+2021-03-31,1,Welwyn Hatfield
+2022-03-31,1,Welwyn Hatfield
+2023-03-31,1,Welwyn Hatfield
+2018-03-31,2,West Suffolk
+2019-03-31,1,West Suffolk
+2020-03-31,1,West Suffolk
+2021-03-31,2,West Suffolk
+2022-03-31,1,West Suffolk
+2023-03-31,5,West Suffolk
+2018-03-31,5,Barking and Dagenham
+2019-03-31,4,Barking and Dagenham
+2020-03-31,4,Barking and Dagenham
+2021-03-31,4,Barking and Dagenham
+2022-03-31,4,Barking and Dagenham
+2023-03-31,6,Barking and Dagenham
+2018-03-31,3,Barnet
+2019-03-31,3,Barnet
+2020-03-31,3,Barnet
+2021-03-31,3,Barnet
+2022-03-31,3,Barnet
+2023-03-31,3,Barnet
+2018-03-31,5,Bexley
+2019-03-31,5,Bexley
+2020-03-31,5,Bexley
+2021-03-31,4,Bexley
+2022-03-31,4,Bexley
+2023-03-31,4,Bexley
+2018-03-31,2,Brent
+2019-03-31,2,Brent
+2020-03-31,2,Brent
+2021-03-31,3,Brent
+2022-03-31,3,Brent
+2023-03-31,3,Brent
+2018-03-31,5,Bromley
+2019-03-31,4,Bromley
+2020-03-31,4,Bromley
+2021-03-31,5,Bromley
+2022-03-31,6,Bromley
+2023-03-31,4,Bromley
+2018-03-31,3,Camden
+2019-03-31,3,Camden
+2020-03-31,3,Camden
+2021-03-31,3,Camden
+2022-03-31,3,Camden
+2023-03-31,4,Camden
+2018-03-31,1,Croydon
+2019-03-31,1,Croydon
+2020-03-31,1,Croydon
+2021-03-31,1,Croydon
+2022-03-31,1,Croydon
+2023-03-31,1,Croydon
+2018-03-31,7,Ealing
+2019-03-31,9,Ealing
+2020-03-31,8,Ealing
+2021-03-31,5,Ealing
+2022-03-31,8,Ealing
+2023-03-31,8,Ealing
+2018-03-31,1,Enfield
+2019-03-31,1,Enfield
+2020-03-31,1,Enfield
+2021-03-31,1,Enfield
+2022-03-31,1,Enfield
+2023-03-31,1,Enfield
+2018-03-31,8,Greenwich
+2019-03-31,8,Greenwich
+2020-03-31,9,Greenwich
+2021-03-31,9,Greenwich
+2022-03-31,11,Greenwich
+2023-03-31,11,Greenwich
+2018-03-31,5,Hackney
+2019-03-31,6,Hackney
+2020-03-31,6,Hackney
+2021-03-31,6,Hackney
+2022-03-31,5,Hackney
+2023-03-31,6,Hackney
+2018-03-31,4,Hammersmith and Fulham
+2019-03-31,3,Hammersmith and Fulham
+2020-03-31,3,Hammersmith and Fulham
+2021-03-31,4,Hammersmith and Fulham
+2022-03-31,6,Hammersmith and Fulham
+2023-03-31,6,Hammersmith and Fulham
+2018-03-31,3,Haringey
+2019-03-31,4,Haringey
+2020-03-31,2,Haringey
+2021-03-31,2,Haringey
+2022-03-31,1,Haringey
+2023-03-31,1,Haringey
+2018-03-31,3,Harrow
+2019-03-31,3,Harrow
+2020-03-31,3,Harrow
+2021-03-31,4,Harrow
+2022-03-31,4,Harrow
+2023-03-31,4,Harrow
+2018-03-31,6,Havering
+2019-03-31,6,Havering
+2020-03-31,6,Havering
+2021-03-31,6,Havering
+2022-03-31,6,Havering
+2023-03-31,5,Havering
+2018-03-31,12,Hillingdon
+2019-03-31,11,Hillingdon
+2020-03-31,10,Hillingdon
+2021-03-31,11,Hillingdon
+2022-03-31,12,Hillingdon
+2023-03-31,11,Hillingdon
+2018-03-31,1,Hounslow
+2019-03-31,1,Hounslow
+2020-03-31,1,Hounslow
+2021-03-31,1,Hounslow
+2022-03-31,1,Hounslow
+2023-03-31,0,Hounslow
+2018-03-31,2,Islington
+2019-03-31,1,Islington
+2020-03-31,1,Islington
+2021-03-31,2,Islington
+2022-03-31,3,Islington
+2023-03-31,2,Islington
+2018-03-31,0,Kensington and Chelsea
+2019-03-31,1,Kensington and Chelsea
+2020-03-31,1,Kensington and Chelsea
+2021-03-31,1,Kensington and Chelsea
+2022-03-31,1,Kensington and Chelsea
+2023-03-31,1,Kensington and Chelsea
+2018-03-31,7,Kingston upon Thames
+2019-03-31,6,Kingston upon Thames
+2020-03-31,7,Kingston upon Thames
+2021-03-31,5,Kingston upon Thames
+2022-03-31,5,Kingston upon Thames
+2023-03-31,7,Kingston upon Thames
+2018-03-31,7,Lambeth
+2019-03-31,7,Lambeth
+2020-03-31,7,Lambeth
+2021-03-31,6,Lambeth
+2022-03-31,7,Lambeth
+2023-03-31,7,Lambeth
+2018-03-31,5,Lewisham
+2019-03-31,6,Lewisham
+2020-03-31,5,Lewisham
+2021-03-31,10,Lewisham
+2022-03-31,8,Lewisham
+2023-03-31,8,Lewisham
+2018-03-31,4,Merton
+2019-03-31,4,Merton
+2020-03-31,4,Merton
+2021-03-31,4,Merton
+2022-03-31,5,Merton
+2023-03-31,5,Merton
+2018-03-31,6,Newham
+2019-03-31,6,Newham
+2020-03-31,6,Newham
+2021-03-31,7,Newham
+2022-03-31,1,Newham
+2023-03-31,3,Newham
+2018-03-31,3,Redbridge
+2019-03-31,4,Redbridge
+2020-03-31,4,Redbridge
+2021-03-31,1,Redbridge
+2022-03-31,3,Redbridge
+2023-03-31,4,Redbridge
+2018-03-31,3,Richmond upon Thames
+2019-03-31,3,Richmond upon Thames
+2020-03-31,4,Richmond upon Thames
+2021-03-31,4,Richmond upon Thames
+2022-03-31,4,Richmond upon Thames
+2023-03-31,5,Richmond upon Thames
+2018-03-31,7,Southwark
+2019-03-31,5,Southwark
+2020-03-31,7,Southwark
+2021-03-31,5,Southwark
+2022-03-31,6,Southwark
+2023-03-31,6,Southwark
+2018-03-31,4,Sutton
+2019-03-31,4,Sutton
+2020-03-31,4,Sutton
+2021-03-31,3,Sutton
+2022-03-31,4,Sutton
+2023-03-31,4,Sutton
+2018-03-31,5,Wandsworth
+2019-03-31,5,Wandsworth
+2020-03-31,5,Wandsworth
+2021-03-31,4,Wandsworth
+2022-03-31,7,Wandsworth
+2023-03-31,7,Wandsworth
+2018-03-31,1,Westminster
+2019-03-31,1,Westminster
+2020-03-31,1,Westminster
+2021-03-31,1,Westminster
+2022-03-31,1,Westminster
+2023-03-31,1,Westminster
+2018-03-31,30,County Durham
+2019-03-31,31,County Durham
+2020-03-31,33,County Durham
+2021-03-31,30,County Durham
+2022-03-31,30,County Durham
+2023-03-31,32,County Durham
+2018-03-31,3,Gateshead
+2019-03-31,4,Gateshead
+2020-03-31,4,Gateshead
+2021-03-31,4,Gateshead
+2022-03-31,3,Gateshead
+2023-03-31,5,Gateshead
+2018-03-31,1,Hartlepool
+2019-03-31,1,Hartlepool
+2020-03-31,1,Hartlepool
+2021-03-31,1,Hartlepool
+2022-03-31,1,Hartlepool
+2023-03-31,1,Hartlepool
+2018-03-31,8,Middlesbrough
+2019-03-31,8,Middlesbrough
+2020-03-31,8,Middlesbrough
+2021-03-31,7,Middlesbrough
+2022-03-31,8,Middlesbrough
+2023-03-31,7,Middlesbrough
+2018-03-31,4,Newcastle upon Tyne
+2019-03-31,4,Newcastle upon Tyne
+2020-03-31,5,Newcastle upon Tyne
+2021-03-31,9,Newcastle upon Tyne
+2022-03-31,9,Newcastle upon Tyne
+2023-03-31,9,Newcastle upon Tyne
+2018-03-31,0,Northumberland
+2019-03-31,0,Northumberland
+2020-03-31,1,Northumberland
+2021-03-31,1,Northumberland
+2022-03-31,1,Northumberland
+2023-03-31,1,Northumberland
+2018-03-31,11,Redcar and Cleveland
+2019-03-31,10,Redcar and Cleveland
+2020-03-31,12,Redcar and Cleveland
+2021-03-31,12,Redcar and Cleveland
+2022-03-31,11,Redcar and Cleveland
+2023-03-31,12,Redcar and Cleveland
+2018-03-31,0,South Tyneside
+2019-03-31,0,South Tyneside
+2020-03-31,0,South Tyneside
+2021-03-31,1,South Tyneside
+2022-03-31,1,South Tyneside
+2023-03-31,1,South Tyneside
+2018-03-31,4,Stockton-on-Tees
+2019-03-31,4,Stockton-on-Tees
+2020-03-31,4,Stockton-on-Tees
+2021-03-31,4,Stockton-on-Tees
+2022-03-31,4,Stockton-on-Tees
+2023-03-31,3,Stockton-on-Tees
+2018-03-31,7,Sunderland
+2019-03-31,12,Sunderland
+2020-03-31,13,Sunderland
+2021-03-31,14,Sunderland
+2022-03-31,12,Sunderland
+2023-03-31,9,Sunderland
+2018-03-31,4,Allerdale
+2019-03-31,4,Allerdale
+2020-03-31,4,Allerdale
+2021-03-31,4,Allerdale
+2022-03-31,4,Allerdale
+2023-03-31,4,Allerdale
+2018-03-31,1,Barrow-in-Furness
+2019-03-31,1,Barrow-in-Furness
+2020-03-31,1,Barrow-in-Furness
+2021-03-31,1,Barrow-in-Furness
+2022-03-31,1,Barrow-in-Furness
+2023-03-31,1,Barrow-in-Furness
+2018-03-31,1,Blackburn with Darwen
+2019-03-31,1,Blackburn with Darwen
+2020-03-31,1,Blackburn with Darwen
+2021-03-31,1,Blackburn with Darwen
+2022-03-31,1,Blackburn with Darwen
+2023-03-31,1,Blackburn with Darwen
+2018-03-31,2,Bolton
+2019-03-31,2,Bolton
+2020-03-31,3,Bolton
+2021-03-31,2,Bolton
+2022-03-31,3,Bolton
+2023-03-31,2,Bolton
+2018-03-31,3,Cheshire East
+2019-03-31,3,Cheshire East
+2020-03-31,4,Cheshire East
+2021-03-31,4,Cheshire East
+2022-03-31,3,Cheshire East
+2023-03-31,2,Cheshire East
+2018-03-31,17,Cheshire West and Chester
+2019-03-31,17,Cheshire West and Chester
+2020-03-31,19,Cheshire West and Chester
+2021-03-31,33,Cheshire West and Chester
+2022-03-31,32,Cheshire West and Chester
+2023-03-31,36,Cheshire West and Chester
+2018-03-31,3,Copeland
+2019-03-31,3,Copeland
+2020-03-31,3,Copeland
+2021-03-31,3,Copeland
+2022-03-31,3,Copeland
+2023-03-31,3,Copeland
+2018-03-31,3,Fylde
+2019-03-31,3,Fylde
+2020-03-31,3,Fylde
+2021-03-31,3,Fylde
+2022-03-31,3,Fylde
+2023-03-31,3,Fylde
+2018-03-31,11,Halton
+2019-03-31,11,Halton
+2020-03-31,12,Halton
+2021-03-31,11,Halton
+2022-03-31,8,Halton
+2023-03-31,9,Halton
+2018-03-31,18,Knowsley
+2019-03-31,16,Knowsley
+2020-03-31,18,Knowsley
+2021-03-31,19,Knowsley
+2022-03-31,18,Knowsley
+2023-03-31,12,Knowsley
+2018-03-31,2,Lancaster
+2019-03-31,1,Lancaster
+2020-03-31,3,Lancaster
+2021-03-31,3,Lancaster
+2022-03-31,1,Lancaster
+2023-03-31,1,Lancaster
+2018-03-31,22,Liverpool
+2019-03-31,22,Liverpool
+2020-03-31,22,Liverpool
+2021-03-31,23,Liverpool
+2022-03-31,21,Liverpool
+2023-03-31,24,Liverpool
+2018-03-31,19,Manchester
+2019-03-31,19,Manchester
+2020-03-31,18,Manchester
+2021-03-31,18,Manchester
+2022-03-31,17,Manchester
+2023-03-31,19,Manchester
+2018-03-31,4,Oldham
+2019-03-31,4,Oldham
+2020-03-31,4,Oldham
+2021-03-31,3,Oldham
+2022-03-31,2,Oldham
+2023-03-31,2,Oldham
+2018-03-31,3,Ribble Valley
+2019-03-31,2,Ribble Valley
+2020-03-31,2,Ribble Valley
+2021-03-31,2,Ribble Valley
+2022-03-31,2,Ribble Valley
+2023-03-31,2,Ribble Valley
+2018-03-31,2,Rochdale
+2019-03-31,3,Rochdale
+2020-03-31,3,Rochdale
+2021-03-31,3,Rochdale
+2022-03-31,3,Rochdale
+2023-03-31,3,Rochdale
+2018-03-31,6,Salford
+2019-03-31,7,Salford
+2020-03-31,7,Salford
+2021-03-31,12,Salford
+2022-03-31,12,Salford
+2023-03-31,12,Salford
+2018-03-31,18,Sefton
+2019-03-31,16,Sefton
+2020-03-31,17,Sefton
+2021-03-31,15,Sefton
+2022-03-31,15,Sefton
+2023-03-31,15,Sefton
+2018-03-31,3,South Lakeland
+2019-03-31,3,South Lakeland
+2020-03-31,3,South Lakeland
+2021-03-31,3,South Lakeland
+2022-03-31,2,South Lakeland
+2023-03-31,3,South Lakeland
+2018-03-31,4,St. Helens
+2019-03-31,4,St. Helens
+2020-03-31,4,St. Helens
+2021-03-31,5,St. Helens
+2022-03-31,5,St. Helens
+2023-03-31,5,St. Helens
+2018-03-31,5,Stockport
+2019-03-31,6,Stockport
+2020-03-31,6,Stockport
+2021-03-31,7,Stockport
+2022-03-31,7,Stockport
+2023-03-31,8,Stockport
+2018-03-31,8,Tameside
+2019-03-31,8,Tameside
+2020-03-31,8,Tameside
+2021-03-31,7,Tameside
+2022-03-31,9,Tameside
+2023-03-31,10,Tameside
+2018-03-31,6,Trafford
+2019-03-31,6,Trafford
+2020-03-31,6,Trafford
+2021-03-31,9,Trafford
+2022-03-31,9,Trafford
+2023-03-31,8,Trafford
+2018-03-31,7,Warrington
+2019-03-31,7,Warrington
+2020-03-31,8,Warrington
+2021-03-31,3,Warrington
+2022-03-31,6,Warrington
+2023-03-31,5,Warrington
+2018-03-31,4,West Lancashire
+2019-03-31,4,West Lancashire
+2020-03-31,4,West Lancashire
+2021-03-31,4,West Lancashire
+2022-03-31,5,West Lancashire
+2023-03-31,5,West Lancashire
+2018-03-31,5,Wigan
+2019-03-31,5,Wigan
+2020-03-31,5,Wigan
+2021-03-31,5,Wigan
+2022-03-31,4,Wigan
+2023-03-31,5,Wigan
+2018-03-31,18,Wirral
+2019-03-31,15,Wirral
+2020-03-31,16,Wirral
+2021-03-31,9,Wirral
+2022-03-31,14,Wirral
+2023-03-31,13,Wirral
+2018-03-31,5,Antrim and Newtownabbey
+2019-03-31,5,Antrim and Newtownabbey
+2020-03-31,5,Antrim and Newtownabbey
+2021-03-31,5,Antrim and Newtownabbey
+2022-03-31,7,Antrim and Newtownabbey
+2023-03-31,9,Antrim and Newtownabbey
+2018-03-31,4,Ards and North Down
+2019-03-31,5,Ards and North Down
+2020-03-31,4,Ards and North Down
+2021-03-31,3,Ards and North Down
+2022-03-31,4,Ards and North Down
+2023-03-31,4,Ards and North Down
+2018-03-31,5,"Armagh City, Banbridge and Craigavon"
+2019-03-31,4,"Armagh City, Banbridge and Craigavon"
+2020-03-31,5,"Armagh City, Banbridge and Craigavon"
+2021-03-31,2,"Armagh City, Banbridge and Craigavon"
+2022-03-31,5,"Armagh City, Banbridge and Craigavon"
+2023-03-31,6,"Armagh City, Banbridge and Craigavon"
+2018-03-31,10,Belfast
+2019-03-31,10,Belfast
+2020-03-31,11,Belfast
+2021-03-31,10,Belfast
+2022-03-31,13,Belfast
+2023-03-31,9,Belfast
+2018-03-31,5,Causeway Coast and Glens
+2019-03-31,4,Causeway Coast and Glens
+2020-03-31,4,Causeway Coast and Glens
+2021-03-31,4,Causeway Coast and Glens
+2022-03-31,7,Causeway Coast and Glens
+2023-03-31,8,Causeway Coast and Glens
+2018-03-31,2,Derry City and Strabane
+2019-03-31,2,Derry City and Strabane
+2020-03-31,2,Derry City and Strabane
+2021-03-31,2,Derry City and Strabane
+2022-03-31,2,Derry City and Strabane
+2023-03-31,2,Derry City and Strabane
+2018-03-31,1,Fermanagh and Omagh
+2019-03-31,1,Fermanagh and Omagh
+2020-03-31,5,Fermanagh and Omagh
+2021-03-31,3,Fermanagh and Omagh
+2022-03-31,4,Fermanagh and Omagh
+2023-03-31,4,Fermanagh and Omagh
+2018-03-31,3,Lisburn and Castlereagh
+2019-03-31,3,Lisburn and Castlereagh
+2020-03-31,2,Lisburn and Castlereagh
+2021-03-31,2,Lisburn and Castlereagh
+2022-03-31,2,Lisburn and Castlereagh
+2023-03-31,2,Lisburn and Castlereagh
+2018-03-31,5,Mid and East Antrim
+2019-03-31,5,Mid and East Antrim
+2020-03-31,5,Mid and East Antrim
+2021-03-31,5,Mid and East Antrim
+2022-03-31,5,Mid and East Antrim
+2023-03-31,5,Mid and East Antrim
+2018-03-31,1,Mid Ulster
+2019-03-31,1,Mid Ulster
+2020-03-31,2,Mid Ulster
+2021-03-31,2,Mid Ulster
+2022-03-31,1,Mid Ulster
+2023-03-31,2,Mid Ulster
+2018-03-31,1,"Newry, Mourne and Down"
+2019-03-31,2,"Newry, Mourne and Down"
+2020-03-31,0,"Newry, Mourne and Down"
+2021-03-31,0,"Newry, Mourne and Down"
+2022-03-31,0,"Newry, Mourne and Down"
+2023-03-31,0,"Newry, Mourne and Down"
+2018-03-31,7,Aberdeen City
+2019-03-31,11,Aberdeen City
+2020-03-31,10,Aberdeen City
+2021-03-31,9,Aberdeen City
+2022-03-31,6,Aberdeen City
+2023-03-31,7,Aberdeen City
+2018-03-31,4,Aberdeenshire
+2019-03-31,5,Aberdeenshire
+2020-03-31,6,Aberdeenshire
+2021-03-31,6,Aberdeenshire
+2022-03-31,6,Aberdeenshire
+2023-03-31,6,Aberdeenshire
+2018-03-31,5,Angus
+2019-03-31,3,Angus
+2020-03-31,3,Angus
+2021-03-31,3,Angus
+2022-03-31,3,Angus
+2023-03-31,3,Angus
+2018-03-31,18,City of Edinburgh
+2019-03-31,17,City of Edinburgh
+2020-03-31,17,City of Edinburgh
+2021-03-31,16,City of Edinburgh
+2022-03-31,17,City of Edinburgh
+2023-03-31,18,City of Edinburgh
+2018-03-31,2,Dumfries and Galloway
+2019-03-31,2,Dumfries and Galloway
+2020-03-31,2,Dumfries and Galloway
+2021-03-31,2,Dumfries and Galloway
+2022-03-31,2,Dumfries and Galloway
+2023-03-31,2,Dumfries and Galloway
+2018-03-31,5,Dundee City
+2019-03-31,4,Dundee City
+2020-03-31,4,Dundee City
+2021-03-31,5,Dundee City
+2022-03-31,7,Dundee City
+2023-03-31,2,Dundee City
+2018-03-31,7,East Ayrshire
+2019-03-31,7,East Ayrshire
+2020-03-31,8,East Ayrshire
+2021-03-31,4,East Ayrshire
+2022-03-31,5,East Ayrshire
+2023-03-31,3,East Ayrshire
+2018-03-31,3,East Dunbartonshire
+2019-03-31,3,East Dunbartonshire
+2020-03-31,3,East Dunbartonshire
+2021-03-31,3,East Dunbartonshire
+2022-03-31,3,East Dunbartonshire
+2023-03-31,3,East Dunbartonshire
+2018-03-31,1,East Lothian
+2019-03-31,1,East Lothian
+2020-03-31,1,East Lothian
+2021-03-31,1,East Lothian
+2022-03-31,1,East Lothian
+2023-03-31,1,East Lothian
+2018-03-31,3,East Renfrewshire
+2019-03-31,2,East Renfrewshire
+2020-03-31,2,East Renfrewshire
+2021-03-31,2,East Renfrewshire
+2022-03-31,2,East Renfrewshire
+2023-03-31,2,East Renfrewshire
+2018-03-31,1,Falkirk
+2019-03-31,1,Falkirk
+2020-03-31,1,Falkirk
+2021-03-31,1,Falkirk
+2022-03-31,1,Falkirk
+2023-03-31,1,Falkirk
+2018-03-31,8,Fife
+2019-03-31,9,Fife
+2020-03-31,9,Fife
+2021-03-31,10,Fife
+2022-03-31,10,Fife
+2023-03-31,9,Fife
+2018-03-31,18,Glasgow City
+2019-03-31,18,Glasgow City
+2020-03-31,19,Glasgow City
+2021-03-31,15,Glasgow City
+2022-03-31,14,Glasgow City
+2023-03-31,15,Glasgow City
+2018-03-31,20,Highland
+2019-03-31,16,Highland
+2020-03-31,11,Highland
+2021-03-31,12,Highland
+2022-03-31,8,Highland
+2023-03-31,7,Highland
+2018-03-31,2,Inverclyde
+2019-03-31,3,Inverclyde
+2020-03-31,3,Inverclyde
+2021-03-31,2,Inverclyde
+2022-03-31,3,Inverclyde
+2023-03-31,3,Inverclyde
+2018-03-31,2,Midlothian
+2019-03-31,1,Midlothian
+2020-03-31,1,Midlothian
+2021-03-31,1,Midlothian
+2022-03-31,2,Midlothian
+2023-03-31,2,Midlothian
+2018-03-31,1,Moray
+2019-03-31,1,Moray
+2020-03-31,1,Moray
+2021-03-31,0,Moray
+2022-03-31,0,Moray
+2023-03-31,0,Moray
+2018-03-31,2,Na h-Eileanan Siar
+2019-03-31,2,Na h-Eileanan Siar
+2020-03-31,2,Na h-Eileanan Siar
+2021-03-31,1,Na h-Eileanan Siar
+2022-03-31,0,Na h-Eileanan Siar
+2023-03-31,0,Na h-Eileanan Siar
+2018-03-31,17,North Ayrshire
+2019-03-31,17,North Ayrshire
+2020-03-31,24,North Ayrshire
+2021-03-31,11,North Ayrshire
+2022-03-31,10,North Ayrshire
+2023-03-31,11,North Ayrshire
+2018-03-31,3,North Lanarkshire
+2019-03-31,4,North Lanarkshire
+2020-03-31,5,North Lanarkshire
+2021-03-31,4,North Lanarkshire
+2022-03-31,5,North Lanarkshire
+2023-03-31,4,North Lanarkshire
+2018-03-31,1,Orkney Islands
+2019-03-31,1,Orkney Islands
+2020-03-31,1,Orkney Islands
+2021-03-31,1,Orkney Islands
+2022-03-31,1,Orkney Islands
+2023-03-31,1,Orkney Islands
+2018-03-31,9,Perth and Kinross
+2019-03-31,8,Perth and Kinross
+2020-03-31,2,Perth and Kinross
+2021-03-31,2,Perth and Kinross
+2022-03-31,2,Perth and Kinross
+2023-03-31,2,Perth and Kinross
+2018-03-31,7,Renfrewshire
+2019-03-31,5,Renfrewshire
+2020-03-31,5,Renfrewshire
+2021-03-31,4,Renfrewshire
+2022-03-31,4,Renfrewshire
+2023-03-31,4,Renfrewshire
+2018-03-31,1,Scottish Borders
+2019-03-31,1,Scottish Borders
+2020-03-31,1,Scottish Borders
+2021-03-31,1,Scottish Borders
+2022-03-31,1,Scottish Borders
+2023-03-31,1,Scottish Borders
+2018-03-31,1,Shetland Islands
+2019-03-31,1,Shetland Islands
+2020-03-31,1,Shetland Islands
+2021-03-31,1,Shetland Islands
+2022-03-31,1,Shetland Islands
+2023-03-31,1,Shetland Islands
+2018-03-31,7,South Ayrshire
+2019-03-31,8,South Ayrshire
+2020-03-31,8,South Ayrshire
+2021-03-31,7,South Ayrshire
+2022-03-31,9,South Ayrshire
+2023-03-31,10,South Ayrshire
+2018-03-31,11,South Lanarkshire
+2019-03-31,9,South Lanarkshire
+2020-03-31,10,South Lanarkshire
+2021-03-31,7,South Lanarkshire
+2022-03-31,9,South Lanarkshire
+2023-03-31,10,South Lanarkshire
+2018-03-31,0,West Dunbartonshire
+2019-03-31,0,West Dunbartonshire
+2020-03-31,1,West Dunbartonshire
+2021-03-31,1,West Dunbartonshire
+2022-03-31,0,West Dunbartonshire
+2023-03-31,0,West Dunbartonshire
+2018-03-31,14,West Lothian
+2019-03-31,15,West Lothian
+2020-03-31,16,West Lothian
+2021-03-31,10,West Lothian
+2022-03-31,5,West Lothian
+2023-03-31,10,West Lothian
+2018-03-31,2,Adur
+2019-03-31,2,Adur
+2020-03-31,2,Adur
+2021-03-31,2,Adur
+2022-03-31,2,Adur
+2023-03-31,1,Adur
+2018-03-31,3,Arun
+2019-03-31,3,Arun
+2020-03-31,3,Arun
+2021-03-31,4,Arun
+2022-03-31,4,Arun
+2023-03-31,2,Arun
+2018-03-31,3,Basingstoke and Deane
+2019-03-31,3,Basingstoke and Deane
+2020-03-31,3,Basingstoke and Deane
+2021-03-31,2,Basingstoke and Deane
+2022-03-31,8,Basingstoke and Deane
+2023-03-31,9,Basingstoke and Deane
+2018-03-31,2,Bracknell Forest
+2019-03-31,2,Bracknell Forest
+2020-03-31,2,Bracknell Forest
+2021-03-31,2,Bracknell Forest
+2022-03-31,2,Bracknell Forest
+2023-03-31,2,Bracknell Forest
+2018-03-31,2,Brighton and Hove
+2019-03-31,1,Brighton and Hove
+2020-03-31,1,Brighton and Hove
+2021-03-31,2,Brighton and Hove
+2022-03-31,3,Brighton and Hove
+2023-03-31,5,Brighton and Hove
+2018-03-31,9,Buckinghamshire
+2019-03-31,10,Buckinghamshire
+2020-03-31,14,Buckinghamshire
+2021-03-31,18,Buckinghamshire
+2022-03-31,20,Buckinghamshire
+2023-03-31,19,Buckinghamshire
+2018-03-31,5,Cherwell
+2019-03-31,5,Cherwell
+2020-03-31,5,Cherwell
+2021-03-31,4,Cherwell
+2022-03-31,4,Cherwell
+2023-03-31,4,Cherwell
+2018-03-31,4,Chichester
+2019-03-31,4,Chichester
+2020-03-31,4,Chichester
+2021-03-31,4,Chichester
+2022-03-31,4,Chichester
+2023-03-31,4,Chichester
+2018-03-31,10,Dover
+2019-03-31,10,Dover
+2020-03-31,8,Dover
+2021-03-31,4,Dover
+2022-03-31,9,Dover
+2023-03-31,9,Dover
+2018-03-31,1,East Hampshire
+2019-03-31,1,East Hampshire
+2020-03-31,1,East Hampshire
+2021-03-31,1,East Hampshire
+2022-03-31,1,East Hampshire
+2023-03-31,1,East Hampshire
+2018-03-31,8,Eastbourne
+2019-03-31,10,Eastbourne
+2020-03-31,9,Eastbourne
+2021-03-31,11,Eastbourne
+2022-03-31,10,Eastbourne
+2023-03-31,10,Eastbourne
+2018-03-31,7,Elmbridge
+2019-03-31,7,Elmbridge
+2020-03-31,7,Elmbridge
+2021-03-31,14,Elmbridge
+2022-03-31,7,Elmbridge
+2023-03-31,10,Elmbridge
+2018-03-31,2,Epsom and Ewell
+2019-03-31,2,Epsom and Ewell
+2020-03-31,2,Epsom and Ewell
+2021-03-31,2,Epsom and Ewell
+2022-03-31,2,Epsom and Ewell
+2023-03-31,2,Epsom and Ewell
+2018-03-31,0,Fareham
+2019-03-31,0,Fareham
+2020-03-31,0,Fareham
+2021-03-31,0,Fareham
+2022-03-31,0,Fareham
+2023-03-31,1,Fareham
+2018-03-31,3,Folkestone and Hythe
+2019-03-31,3,Folkestone and Hythe
+2020-03-31,3,Folkestone and Hythe
+2021-03-31,4,Folkestone and Hythe
+2022-03-31,4,Folkestone and Hythe
+2023-03-31,4,Folkestone and Hythe
+2018-03-31,3,Gravesham
+2019-03-31,3,Gravesham
+2020-03-31,3,Gravesham
+2021-03-31,2,Gravesham
+2022-03-31,3,Gravesham
+2023-03-31,2,Gravesham
+2018-03-31,4,Hart
+2019-03-31,3,Hart
+2020-03-31,3,Hart
+2021-03-31,5,Hart
+2022-03-31,5,Hart
+2023-03-31,5,Hart
+2018-03-31,1,Hastings
+2019-03-31,1,Hastings
+2020-03-31,1,Hastings
+2021-03-31,2,Hastings
+2022-03-31,2,Hastings
+2023-03-31,2,Hastings
+2018-03-31,8,Horsham
+2019-03-31,9,Horsham
+2020-03-31,10,Horsham
+2021-03-31,9,Horsham
+2022-03-31,16,Horsham
+2023-03-31,20,Horsham
+2018-03-31,6,Isle of Wight
+2019-03-31,6,Isle of Wight
+2020-03-31,6,Isle of Wight
+2021-03-31,6,Isle of Wight
+2022-03-31,5,Isle of Wight
+2023-03-31,5,Isle of Wight
+2018-03-31,9,Medway
+2019-03-31,9,Medway
+2020-03-31,9,Medway
+2021-03-31,10,Medway
+2022-03-31,11,Medway
+2023-03-31,9,Medway
+2018-03-31,2,Mid Sussex
+2019-03-31,2,Mid Sussex
+2020-03-31,2,Mid Sussex
+2021-03-31,2,Mid Sussex
+2022-03-31,2,Mid Sussex
+2023-03-31,3,Mid Sussex
+2018-03-31,2,Mole Valley
+2019-03-31,2,Mole Valley
+2020-03-31,2,Mole Valley
+2021-03-31,2,Mole Valley
+2022-03-31,2,Mole Valley
+2023-03-31,2,Mole Valley
+2018-03-31,3,New Forest
+2019-03-31,3,New Forest
+2020-03-31,3,New Forest
+2021-03-31,4,New Forest
+2022-03-31,4,New Forest
+2023-03-31,4,New Forest
+2018-03-31,3,Portsmouth
+2019-03-31,3,Portsmouth
+2020-03-31,4,Portsmouth
+2021-03-31,4,Portsmouth
+2022-03-31,4,Portsmouth
+2023-03-31,3,Portsmouth
+2018-03-31,2,Reigate and Banstead
+2019-03-31,2,Reigate and Banstead
+2020-03-31,2,Reigate and Banstead
+2021-03-31,1,Reigate and Banstead
+2022-03-31,2,Reigate and Banstead
+2023-03-31,2,Reigate and Banstead
+2018-03-31,3,Rother
+2019-03-31,3,Rother
+2020-03-31,3,Rother
+2021-03-31,3,Rother
+2022-03-31,4,Rother
+2023-03-31,3,Rother
+2018-03-31,4,Runnymede
+2019-03-31,4,Runnymede
+2020-03-31,5,Runnymede
+2021-03-31,6,Runnymede
+2022-03-31,6,Runnymede
+2023-03-31,6,Runnymede
+2018-03-31,3,Rushmoor
+2019-03-31,3,Rushmoor
+2020-03-31,3,Rushmoor
+2021-03-31,3,Rushmoor
+2022-03-31,2,Rushmoor
+2023-03-31,2,Rushmoor
+2018-03-31,1,Sevenoaks
+2019-03-31,1,Sevenoaks
+2020-03-31,1,Sevenoaks
+2021-03-31,1,Sevenoaks
+2022-03-31,2,Sevenoaks
+2023-03-31,2,Sevenoaks
+2018-03-31,5,Slough
+2019-03-31,4,Slough
+2020-03-31,4,Slough
+2021-03-31,5,Slough
+2022-03-31,5,Slough
+2023-03-31,5,Slough
+2018-03-31,1,Spelthorne
+2019-03-31,0,Spelthorne
+2020-03-31,1,Spelthorne
+2021-03-31,0,Spelthorne
+2022-03-31,0,Spelthorne
+2023-03-31,0,Spelthorne
+2018-03-31,6,Swale
+2019-03-31,4,Swale
+2020-03-31,5,Swale
+2021-03-31,5,Swale
+2022-03-31,6,Swale
+2023-03-31,7,Swale
+2018-03-31,3,Tandridge
+2019-03-31,2,Tandridge
+2020-03-31,2,Tandridge
+2021-03-31,2,Tandridge
+2022-03-31,3,Tandridge
+2023-03-31,3,Tandridge
+2018-03-31,14,Test Valley
+2019-03-31,13,Test Valley
+2020-03-31,13,Test Valley
+2021-03-31,11,Test Valley
+2022-03-31,11,Test Valley
+2023-03-31,9,Test Valley
+2018-03-31,1,Tonbridge and Malling
+2019-03-31,0,Tonbridge and Malling
+2020-03-31,0,Tonbridge and Malling
+2021-03-31,0,Tonbridge and Malling
+2022-03-31,0,Tonbridge and Malling
+2023-03-31,0,Tonbridge and Malling
+2018-03-31,0,Tunbridge Wells
+2019-03-31,0,Tunbridge Wells
+2020-03-31,0,Tunbridge Wells
+2021-03-31,0,Tunbridge Wells
+2022-03-31,1,Tunbridge Wells
+2023-03-31,1,Tunbridge Wells
+2018-03-31,0,Vale of White Horse
+2019-03-31,0,Vale of White Horse
+2020-03-31,0,Vale of White Horse
+2021-03-31,2,Vale of White Horse
+2022-03-31,2,Vale of White Horse
+2023-03-31,2,Vale of White Horse
+2018-03-31,3,Waverley
+2019-03-31,3,Waverley
+2020-03-31,3,Waverley
+2021-03-31,3,Waverley
+2022-03-31,3,Waverley
+2023-03-31,5,Waverley
+2018-03-31,4,Wealden
+2019-03-31,4,Wealden
+2020-03-31,4,Wealden
+2021-03-31,4,Wealden
+2022-03-31,6,Wealden
+2023-03-31,7,Wealden
+2018-03-31,5,West Berkshire
+2019-03-31,5,West Berkshire
+2020-03-31,5,West Berkshire
+2021-03-31,2,West Berkshire
+2022-03-31,4,West Berkshire
+2023-03-31,5,West Berkshire
+2018-03-31,1,West Oxfordshire
+2019-03-31,1,West Oxfordshire
+2020-03-31,1,West Oxfordshire
+2021-03-31,1,West Oxfordshire
+2022-03-31,1,West Oxfordshire
+2023-03-31,1,West Oxfordshire
+2018-03-31,3,Woking
+2019-03-31,3,Woking
+2020-03-31,4,Woking
+2021-03-31,4,Woking
+2022-03-31,5,Woking
+2023-03-31,5,Woking
+2018-03-31,2,Wokingham
+2019-03-31,1,Wokingham
+2020-03-31,1,Wokingham
+2021-03-31,1,Wokingham
+2022-03-31,2,Wokingham
+2023-03-31,2,Wokingham
+2018-03-31,1,Worthing
+2019-03-31,1,Worthing
+2020-03-31,1,Worthing
+2021-03-31,1,Worthing
+2022-03-31,1,Worthing
+2023-03-31,1,Worthing
+2018-03-31,13,Bath and North East Somerset
+2019-03-31,12,Bath and North East Somerset
+2020-03-31,14,Bath and North East Somerset
+2021-03-31,15,Bath and North East Somerset
+2022-03-31,14,Bath and North East Somerset
+2023-03-31,14,Bath and North East Somerset
+2018-03-31,9,"Bournemouth, Christchurch and Poole"
+2019-03-31,10,"Bournemouth, Christchurch and Poole"
+2020-03-31,8,"Bournemouth, Christchurch and Poole"
+2021-03-31,6,"Bournemouth, Christchurch and Poole"
+2022-03-31,6,"Bournemouth, Christchurch and Poole"
+2023-03-31,5,"Bournemouth, Christchurch and Poole"
+2018-03-31,12,"Bristol, City of"
+2019-03-31,12,"Bristol, City of"
+2020-03-31,12,"Bristol, City of"
+2021-03-31,16,"Bristol, City of"
+2022-03-31,16,"Bristol, City of"
+2023-03-31,18,"Bristol, City of"
+2018-03-31,1,Cheltenham
+2019-03-31,1,Cheltenham
+2020-03-31,1,Cheltenham
+2021-03-31,4,Cheltenham
+2022-03-31,4,Cheltenham
+2023-03-31,4,Cheltenham
+2018-03-31,24,Cornwall
+2019-03-31,21,Cornwall
+2020-03-31,18,Cornwall
+2021-03-31,23,Cornwall
+2022-03-31,22,Cornwall
+2023-03-31,24,Cornwall
+2018-03-31,8,Cotswold
+2019-03-31,8,Cotswold
+2020-03-31,8,Cotswold
+2021-03-31,8,Cotswold
+2022-03-31,9,Cotswold
+2023-03-31,10,Cotswold
+2018-03-31,4,Dorset
+2019-03-31,4,Dorset
+2020-03-31,3,Dorset
+2021-03-31,2,Dorset
+2022-03-31,2,Dorset
+2023-03-31,2,Dorset
+2018-03-31,0,East Devon
+2019-03-31,0,East Devon
+2020-03-31,0,East Devon
+2021-03-31,2,East Devon
+2022-03-31,1,East Devon
+2023-03-31,2,East Devon
+2018-03-31,3,Exeter
+2019-03-31,3,Exeter
+2020-03-31,3,Exeter
+2021-03-31,3,Exeter
+2022-03-31,3,Exeter
+2023-03-31,2,Exeter
+2018-03-31,4,Forest of Dean
+2019-03-31,4,Forest of Dean
+2020-03-31,6,Forest of Dean
+2021-03-31,3,Forest of Dean
+2022-03-31,4,Forest of Dean
+2023-03-31,8,Forest of Dean
+2018-03-31,1,Gloucester
+2019-03-31,1,Gloucester
+2020-03-31,1,Gloucester
+2021-03-31,1,Gloucester
+2022-03-31,2,Gloucester
+2023-03-31,4,Gloucester
+2018-03-31,3,North Devon
+2019-03-31,3,North Devon
+2020-03-31,3,North Devon
+2021-03-31,4,North Devon
+2022-03-31,4,North Devon
+2023-03-31,5,North Devon
+2018-03-31,6,North Somerset
+2019-03-31,6,North Somerset
+2020-03-31,14,North Somerset
+2021-03-31,17,North Somerset
+2022-03-31,12,North Somerset
+2023-03-31,8,North Somerset
+2018-03-31,2,Plymouth
+2019-03-31,2,Plymouth
+2020-03-31,2,Plymouth
+2021-03-31,3,Plymouth
+2022-03-31,3,Plymouth
+2023-03-31,4,Plymouth
+2018-03-31,5,Sedgemoor
+2019-03-31,5,Sedgemoor
+2020-03-31,5,Sedgemoor
+2021-03-31,4,Sedgemoor
+2022-03-31,4,Sedgemoor
+2023-03-31,4,Sedgemoor
+2018-03-31,2,Somerset West and Taunton
+2019-03-31,3,Somerset West and Taunton
+2020-03-31,3,Somerset West and Taunton
+2021-03-31,3,Somerset West and Taunton
+2022-03-31,3,Somerset West and Taunton
+2023-03-31,3,Somerset West and Taunton
+2018-03-31,4,South Gloucestershire
+2019-03-31,5,South Gloucestershire
+2020-03-31,5,South Gloucestershire
+2021-03-31,5,South Gloucestershire
+2022-03-31,4,South Gloucestershire
+2023-03-31,4,South Gloucestershire
+2018-03-31,1,South Hams
+2019-03-31,1,South Hams
+2020-03-31,1,South Hams
+2021-03-31,1,South Hams
+2022-03-31,1,South Hams
+2023-03-31,1,South Hams
+2018-03-31,7,Stroud
+2019-03-31,7,Stroud
+2020-03-31,9,Stroud
+2021-03-31,9,Stroud
+2022-03-31,9,Stroud
+2023-03-31,9,Stroud
+2018-03-31,6,Swindon
+2019-03-31,6,Swindon
+2020-03-31,0,Swindon
+2021-03-31,0,Swindon
+2022-03-31,0,Swindon
+2023-03-31,0,Swindon
+2018-03-31,1,Teignbridge
+2019-03-31,1,Teignbridge
+2020-03-31,2,Teignbridge
+2021-03-31,2,Teignbridge
+2022-03-31,2,Teignbridge
+2023-03-31,2,Teignbridge
+2018-03-31,3,Tewkesbury
+2019-03-31,4,Tewkesbury
+2020-03-31,3,Tewkesbury
+2021-03-31,3,Tewkesbury
+2022-03-31,3,Tewkesbury
+2023-03-31,3,Tewkesbury
+2018-03-31,1,Torridge
+2019-03-31,1,Torridge
+2020-03-31,1,Torridge
+2021-03-31,2,Torridge
+2022-03-31,2,Torridge
+2023-03-31,2,Torridge
+2018-03-31,1,West Devon
+2019-03-31,1,West Devon
+2020-03-31,1,West Devon
+2021-03-31,1,West Devon
+2022-03-31,1,West Devon
+2023-03-31,1,West Devon
+2018-03-31,12,Wiltshire
+2019-03-31,12,Wiltshire
+2020-03-31,12,Wiltshire
+2021-03-31,11,Wiltshire
+2022-03-31,10,Wiltshire
+2023-03-31,19,Wiltshire
+2018-03-31,6,Blaenau Gwent
+2019-03-31,6,Blaenau Gwent
+2020-03-31,6,Blaenau Gwent
+2021-03-31,3,Blaenau Gwent
+2022-03-31,2,Blaenau Gwent
+2023-03-31,2,Blaenau Gwent
+2018-03-31,10,Bridgend
+2019-03-31,10,Bridgend
+2020-03-31,10,Bridgend
+2021-03-31,8,Bridgend
+2022-03-31,9,Bridgend
+2023-03-31,11,Bridgend
+2018-03-31,6,Caerphilly
+2019-03-31,5,Caerphilly
+2020-03-31,6,Caerphilly
+2021-03-31,6,Caerphilly
+2022-03-31,9,Caerphilly
+2023-03-31,8,Caerphilly
+2018-03-31,8,Cardiff
+2019-03-31,7,Cardiff
+2020-03-31,9,Cardiff
+2021-03-31,9,Cardiff
+2022-03-31,10,Cardiff
+2023-03-31,11,Cardiff
+2018-03-31,4,Carmarthenshire
+2019-03-31,4,Carmarthenshire
+2020-03-31,5,Carmarthenshire
+2021-03-31,4,Carmarthenshire
+2022-03-31,4,Carmarthenshire
+2023-03-31,8,Carmarthenshire
+2018-03-31,1,Ceredigion
+2019-03-31,1,Ceredigion
+2020-03-31,1,Ceredigion
+2021-03-31,1,Ceredigion
+2022-03-31,1,Ceredigion
+2023-03-31,1,Ceredigion
+2018-03-31,2,Conwy
+2019-03-31,2,Conwy
+2020-03-31,2,Conwy
+2021-03-31,2,Conwy
+2022-03-31,2,Conwy
+2023-03-31,2,Conwy
+2018-03-31,3,Denbighshire
+2019-03-31,3,Denbighshire
+2020-03-31,4,Denbighshire
+2021-03-31,4,Denbighshire
+2022-03-31,4,Denbighshire
+2023-03-31,4,Denbighshire
+2018-03-31,9,Flintshire
+2019-03-31,9,Flintshire
+2020-03-31,7,Flintshire
+2021-03-31,9,Flintshire
+2022-03-31,11,Flintshire
+2023-03-31,9,Flintshire
+2018-03-31,4,Gwynedd
+2019-03-31,4,Gwynedd
+2020-03-31,4,Gwynedd
+2021-03-31,10,Gwynedd
+2022-03-31,11,Gwynedd
+2023-03-31,9,Gwynedd
+2018-03-31,2,Isle of Anglesey
+2019-03-31,3,Isle of Anglesey
+2020-03-31,4,Isle of Anglesey
+2021-03-31,5,Isle of Anglesey
+2022-03-31,3,Isle of Anglesey
+2023-03-31,2,Isle of Anglesey
+2018-03-31,4,Merthyr Tydfil
+2019-03-31,4,Merthyr Tydfil
+2020-03-31,4,Merthyr Tydfil
+2021-03-31,2,Merthyr Tydfil
+2022-03-31,2,Merthyr Tydfil
+2023-03-31,3,Merthyr Tydfil
+2018-03-31,4,Monmouthshire
+2019-03-31,4,Monmouthshire
+2020-03-31,4,Monmouthshire
+2021-03-31,4,Monmouthshire
+2022-03-31,4,Monmouthshire
+2023-03-31,4,Monmouthshire
+2018-03-31,6,Neath Port Talbot
+2019-03-31,5,Neath Port Talbot
+2020-03-31,6,Neath Port Talbot
+2021-03-31,6,Neath Port Talbot
+2022-03-31,4,Neath Port Talbot
+2023-03-31,4,Neath Port Talbot
+2018-03-31,3,Newport
+2019-03-31,4,Newport
+2020-03-31,4,Newport
+2021-03-31,2,Newport
+2022-03-31,2,Newport
+2023-03-31,3,Newport
+2018-03-31,4,Pembrokeshire
+2019-03-31,4,Pembrokeshire
+2020-03-31,5,Pembrokeshire
+2021-03-31,5,Pembrokeshire
+2022-03-31,5,Pembrokeshire
+2023-03-31,5,Pembrokeshire
+2018-03-31,7,Powys
+2019-03-31,5,Powys
+2020-03-31,7,Powys
+2021-03-31,5,Powys
+2022-03-31,5,Powys
+2023-03-31,6,Powys
+2018-03-31,19,Rhondda Cynon Taf
+2019-03-31,22,Rhondda Cynon Taf
+2020-03-31,22,Rhondda Cynon Taf
+2021-03-31,20,Rhondda Cynon Taf
+2022-03-31,21,Rhondda Cynon Taf
+2023-03-31,23,Rhondda Cynon Taf
+2018-03-31,6,Swansea
+2019-03-31,6,Swansea
+2020-03-31,6,Swansea
+2021-03-31,7,Swansea
+2022-03-31,8,Swansea
+2023-03-31,9,Swansea
+2018-03-31,5,Torfaen
+2019-03-31,5,Torfaen
+2020-03-31,5,Torfaen
+2021-03-31,3,Torfaen
+2022-03-31,7,Torfaen
+2023-03-31,9,Torfaen
+2018-03-31,6,Vale of Glamorgan
+2019-03-31,6,Vale of Glamorgan
+2020-03-31,6,Vale of Glamorgan
+2021-03-31,5,Vale of Glamorgan
+2022-03-31,6,Vale of Glamorgan
+2023-03-31,7,Vale of Glamorgan
+2018-03-31,6,Wrexham
+2019-03-31,6,Wrexham
+2020-03-31,8,Wrexham
+2021-03-31,10,Wrexham
+2022-03-31,10,Wrexham
+2023-03-31,10,Wrexham
+2018-03-31,18,Birmingham
+2019-03-31,17,Birmingham
+2020-03-31,16,Birmingham
+2021-03-31,17,Birmingham
+2022-03-31,16,Birmingham
+2023-03-31,16,Birmingham
+2018-03-31,9,Cannock Chase
+2019-03-31,9,Cannock Chase
+2020-03-31,9,Cannock Chase
+2021-03-31,7,Cannock Chase
+2022-03-31,7,Cannock Chase
+2023-03-31,7,Cannock Chase
+2018-03-31,19,Coventry
+2019-03-31,18,Coventry
+2020-03-31,18,Coventry
+2021-03-31,17,Coventry
+2022-03-31,16,Coventry
+2023-03-31,17,Coventry
+2018-03-31,3,Lichfield
+2019-03-31,3,Lichfield
+2020-03-31,3,Lichfield
+2021-03-31,3,Lichfield
+2022-03-31,4,Lichfield
+2023-03-31,5,Lichfield
+2018-03-31,4,Malvern Hills
+2019-03-31,4,Malvern Hills
+2020-03-31,4,Malvern Hills
+2021-03-31,3,Malvern Hills
+2022-03-31,3,Malvern Hills
+2023-03-31,3,Malvern Hills
+2018-03-31,7,Newcastle-under-Lyme
+2019-03-31,7,Newcastle-under-Lyme
+2020-03-31,7,Newcastle-under-Lyme
+2021-03-31,7,Newcastle-under-Lyme
+2022-03-31,8,Newcastle-under-Lyme
+2023-03-31,7,Newcastle-under-Lyme
+2018-03-31,10,Nuneaton and Bedworth
+2019-03-31,8,Nuneaton and Bedworth
+2020-03-31,8,Nuneaton and Bedworth
+2021-03-31,6,Nuneaton and Bedworth
+2022-03-31,5,Nuneaton and Bedworth
+2023-03-31,4,Nuneaton and Bedworth
+2018-03-31,4,Redditch
+2019-03-31,4,Redditch
+2020-03-31,3,Redditch
+2021-03-31,1,Redditch
+2022-03-31,1,Redditch
+2023-03-31,1,Redditch
+2018-03-31,4,Rugby
+2019-03-31,3,Rugby
+2020-03-31,4,Rugby
+2021-03-31,1,Rugby
+2022-03-31,1,Rugby
+2023-03-31,1,Rugby
+2018-03-31,4,Sandwell
+2019-03-31,4,Sandwell
+2020-03-31,4,Sandwell
+2021-03-31,3,Sandwell
+2022-03-31,3,Sandwell
+2023-03-31,3,Sandwell
+2018-03-31,4,Shropshire
+2019-03-31,4,Shropshire
+2020-03-31,4,Shropshire
+2021-03-31,4,Shropshire
+2022-03-31,4,Shropshire
+2023-03-31,3,Shropshire
+2018-03-31,2,Solihull
+2019-03-31,1,Solihull
+2020-03-31,1,Solihull
+2021-03-31,1,Solihull
+2022-03-31,1,Solihull
+2023-03-31,1,Solihull
+2018-03-31,2,South Staffordshire
+2019-03-31,2,South Staffordshire
+2020-03-31,2,South Staffordshire
+2021-03-31,2,South Staffordshire
+2022-03-31,2,South Staffordshire
+2023-03-31,1,South Staffordshire
+2018-03-31,1,Stafford
+2019-03-31,1,Stafford
+2020-03-31,1,Stafford
+2021-03-31,0,Stafford
+2022-03-31,0,Stafford
+2023-03-31,1,Stafford
+2018-03-31,4,Staffordshire Moorlands
+2019-03-31,4,Staffordshire Moorlands
+2020-03-31,4,Staffordshire Moorlands
+2021-03-31,4,Staffordshire Moorlands
+2022-03-31,4,Staffordshire Moorlands
+2023-03-31,4,Staffordshire Moorlands
+2018-03-31,12,Stoke-on-Trent
+2019-03-31,13,Stoke-on-Trent
+2020-03-31,14,Stoke-on-Trent
+2021-03-31,13,Stoke-on-Trent
+2022-03-31,15,Stoke-on-Trent
+2023-03-31,15,Stoke-on-Trent
+2018-03-31,11,Stratford-on-Avon
+2019-03-31,8,Stratford-on-Avon
+2020-03-31,10,Stratford-on-Avon
+2021-03-31,9,Stratford-on-Avon
+2022-03-31,8,Stratford-on-Avon
+2023-03-31,8,Stratford-on-Avon
+2018-03-31,2,Tamworth
+2019-03-31,2,Tamworth
+2020-03-31,2,Tamworth
+2021-03-31,2,Tamworth
+2022-03-31,2,Tamworth
+2023-03-31,2,Tamworth
+2018-03-31,2,Walsall
+2019-03-31,3,Walsall
+2020-03-31,3,Walsall
+2021-03-31,3,Walsall
+2022-03-31,3,Walsall
+2023-03-31,3,Walsall
+2018-03-31,9,Warwick
+2019-03-31,8,Warwick
+2020-03-31,7,Warwick
+2021-03-31,7,Warwick
+2022-03-31,7,Warwick
+2023-03-31,9,Warwick
+2018-03-31,1,Wolverhampton
+2019-03-31,1,Wolverhampton
+2020-03-31,1,Wolverhampton
+2021-03-31,1,Wolverhampton
+2022-03-31,1,Wolverhampton
+2023-03-31,1,Wolverhampton
+2018-03-31,1,Worcester
+2019-03-31,1,Worcester
+2020-03-31,1,Worcester
+2021-03-31,1,Worcester
+2022-03-31,2,Worcester
+2023-03-31,2,Worcester
+2018-03-31,4,Wychavon
+2019-03-31,4,Wychavon
+2020-03-31,3,Wychavon
+2021-03-31,4,Wychavon
+2022-03-31,4,Wychavon
+2023-03-31,4,Wychavon
+2018-03-31,1,Wyre Forest
+2019-03-31,1,Wyre Forest
+2020-03-31,1,Wyre Forest
+2021-03-31,1,Wyre Forest
+2022-03-31,1,Wyre Forest
+2023-03-31,1,Wyre Forest
+2018-03-31,12,Barnsley
+2019-03-31,11,Barnsley
+2020-03-31,12,Barnsley
+2021-03-31,16,Barnsley
+2022-03-31,13,Barnsley
+2023-03-31,15,Barnsley
+2018-03-31,7,Bradford
+2019-03-31,7,Bradford
+2020-03-31,8,Bradford
+2021-03-31,7,Bradford
+2022-03-31,7,Bradford
+2023-03-31,7,Bradford
+2018-03-31,0,Craven
+2019-03-31,0,Craven
+2020-03-31,0,Craven
+2021-03-31,0,Craven
+2022-03-31,0,Craven
+2023-03-31,1,Craven
+2018-03-31,3,Doncaster
+2019-03-31,3,Doncaster
+2020-03-31,3,Doncaster
+2021-03-31,1,Doncaster
+2022-03-31,3,Doncaster
+2023-03-31,3,Doncaster
+2018-03-31,3,East Riding of Yorkshire
+2019-03-31,3,East Riding of Yorkshire
+2020-03-31,1,East Riding of Yorkshire
+2021-03-31,6,East Riding of Yorkshire
+2022-03-31,7,East Riding of Yorkshire
+2023-03-31,7,East Riding of Yorkshire
+2018-03-31,3,Harrogate
+2019-03-31,2,Harrogate
+2020-03-31,2,Harrogate
+2021-03-31,2,Harrogate
+2022-03-31,3,Harrogate
+2023-03-31,3,Harrogate
+2018-03-31,3,"Kingston upon Hull, City of"
+2019-03-31,2,"Kingston upon Hull, City of"
+2020-03-31,3,"Kingston upon Hull, City of"
+2021-03-31,5,"Kingston upon Hull, City of"
+2022-03-31,5,"Kingston upon Hull, City of"
+2023-03-31,5,"Kingston upon Hull, City of"
+2018-03-31,27,Leeds
+2019-03-31,27,Leeds
+2020-03-31,27,Leeds
+2021-03-31,19,Leeds
+2022-03-31,20,Leeds
+2023-03-31,24,Leeds
+2018-03-31,3,North Lincolnshire
+2019-03-31,4,North Lincolnshire
+2020-03-31,4,North Lincolnshire
+2021-03-31,4,North Lincolnshire
+2022-03-31,4,North Lincolnshire
+2023-03-31,5,North Lincolnshire
+2018-03-31,2,Rotherham
+2019-03-31,2,Rotherham
+2020-03-31,2,Rotherham
+2021-03-31,2,Rotherham
+2022-03-31,2,Rotherham
+2023-03-31,3,Rotherham
+2018-03-31,3,Ryedale
+2019-03-31,3,Ryedale
+2020-03-31,3,Ryedale
+2021-03-31,3,Ryedale
+2022-03-31,3,Ryedale
+2023-03-31,0,Ryedale
+2018-03-31,5,Selby
+2019-03-31,4,Selby
+2020-03-31,4,Selby
+2021-03-31,1,Selby
+2022-03-31,3,Selby
+2023-03-31,3,Selby
+2018-03-31,9,Sheffield
+2019-03-31,8,Sheffield
+2020-03-31,12,Sheffield
+2021-03-31,16,Sheffield
+2022-03-31,16,Sheffield
+2023-03-31,18,Sheffield
+2018-03-31,3,Wakefield
+2019-03-31,3,Wakefield
+2020-03-31,3,Wakefield
+2021-03-31,10,Wakefield
+2022-03-31,10,Wakefield
+2023-03-31,5,Wakefield
+2018-03-31,4,York
+2019-03-31,4,York
+2020-03-31,5,York
+2021-03-31,5,York
+2022-03-31,6,York
+2023-03-31,8,York
